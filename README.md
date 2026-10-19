@@ -1,29 +1,31 @@
 # Abdullah Gülşen
 
-**Bağımsız güvenlik yazılımı geliştiricisi · Yapay zekâ ajanı güvenliği ve tedarik zinciri güvenliği**
+Independent developer working on security software for AI agents and the software supply chain. I also build games in my spare time.
 
-Yapay zekâ destekli geliştirme araçlarıyla, yapay zekâ ajanlarını ve yazılım tedarik zincirini korumayı hedefleyen güvenlik araçları üzerinde çalışıyorum.
-
-## 🛡️ Geliştirme aşamasındaki ürünler
+## Security tools in development
 
 **Wolf Sentinel**
-Hedefi, yapay zekâ ajanlarının davranışını izleyip manipüle edilmiş, ele geçirilmiş ya da kayıtsız ajanları ve sürü saldırılarını tespit etmek; yalnızca sorunlu ajanı sınırlamak.
+Monitors the behavior of AI agents. The goal is to detect agents that have been manipulated, taken over or never registered, as well as coordinated attacks by many agents, and to restrict only the agent that is causing the problem.
 
 **Wolf Audit**
-Hedefi, kaynak kodunu ve bağımlılıkları denetleyip arka kapı, veri sızdırma ve tedarik zinciri saldırısı belirtilerini bulmak.
+Scans source code and dependencies. The goal is to find signs of backdoors, data exfiltration and supply chain attacks before the code is used.
 
-> Her iki ürün de geliştirme aşamasındadır, henüz yayınlanmamıştır ve kaynak kodu kapalıdır. Bağımsız bir denetimden geçmemiştir. Performans rakamları yalnızca bağımsız doğrulamadan sonra paylaşılacaktır.
+Both tools are still in development. They have not been released, the source code is closed, and they have not been independently audited yet. I will only publish performance figures after they have been verified independently.
 
-## 🎮 Oyunlar
+## Games
 
-**Ordu Savaşı Ultra**: Tarayıcıda tek tıkla açılan bir gerçek zamanlı strateji (RTS) oyunu. Açık harita, birimler ve ele geçirme mekaniği var; prototip aşamasında.
-▶️ [Tarayıcıda oyna](https://alsatplaza-commits.github.io/ordu-savasi-ultra/oyun/) · [Kaynak](https://github.com/alsatplaza-commits/ordu-savasi-ultra)
+**Ordu Savaşı Ultra**
+A real time strategy game that runs in the browser. It has an open map, multiple unit types and a capture mechanic. It is still a prototype.
+[Play in browser](https://alsatplaza-commits.github.io/ordu-savasi-ultra/oyun/) | [Source](https://github.com/alsatplaza-commits/ordu-savasi-ultra)
 
-**Ordu Savaşı**: Serinin ilk, daha basit tarayıcı sürümü.
-▶️ [Tarayıcıda oyna](https://alsatplaza-commits.github.io/ordu-savasi/) · [Kaynak](https://github.com/alsatplaza-commits/ordu-savasi)
+**Ordu Savaşı**
+The first and simpler browser version of the series.
+[Play in browser](https://alsatplaza-commits.github.io/ordu-savasi/) | [Source](https://github.com/alsatplaza-commits/ordu-savasi)
 
-**Frontier Rift**: Üçüncü şahıs kamerayla oynanan, hayatta kalma odaklı, sürekli genişleyen bir açık dünya oyunu. Hedef platformlar Windows ve Android. Erken geliştirme aşamasında, henüz oynanabilir bir sürümü yok.
-[Kaynak](https://github.com/alsatplaza-commits/frontier-rift)
+**Frontier Rift**
+An open world survival game with a third person camera, planned for Windows and Android. It is in early development and there is no playable version yet.
+[Source](https://github.com/alsatplaza-commits/frontier-rift)
 
-## 📫 İletişim
-İş birliği ve kapalı beta ilgisi için: mr.monster.information@gmail.com
+## Contact
+
+For collaboration or the closed beta, email me at mr.monster.information@gmail.com
