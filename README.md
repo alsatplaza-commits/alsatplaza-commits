@@ -2,24 +2,21 @@
 
 **Bağımsız güvenlik yazılımı geliştiricisi · Yapay zekâ ajanı güvenliği ve tedarik zinciri güvenliği**
 
-Yapay zekâ ajanlarını izleyen ve kontrol altına alan, yazılımlardaki gizli arka kapıları bulan güvenlik araçları geliştiriyorum.
+Yapay zekâ destekli geliştirme araçlarıyla, yapay zekâ ajanlarını ve yazılım tedarik zincirini korumayı hedefleyen güvenlik araçları üzerinde çalışıyorum.
 
-## 🛡️ Ürünler (kapalı beta hazırlığında)
+## 🛡️ Geliştirme aşamasındaki ürünler
 
-**Wolf Sentinel** (Rust)
-Yapay zekâ ajanlarının davranışını izler. Manipüle edilmiş, enfekte olmuş, kayıtsız (hayalet) ajanları ve sürü saldırılarını tespit edip yalnızca sorunlu ajanı karantinaya alır.
+**Wolf Sentinel**
+Hedefi, yapay zekâ ajanlarının davranışını izleyip manipüle edilmiş, ele geçirilmiş ya da kayıtsız ajanları ve sürü saldırılarını tespit etmek; yalnızca sorunlu ajanı sınırlamak.
 
-**Wolf Audit** (Python)
-Kaynak kodunu ve bağımlılıkları bağımsız olarak denetler. Arka kapı, veri sızdırma, saatli bomba ve tedarik zinciri saldırılarını yakalamaya çalışır.
+**Wolf Audit**
+Hedefi, kaynak kodunu ve bağımlılıkları denetleyip arka kapı, veri sızdırma ve tedarik zinciri saldırısı belirtilerini bulmak.
 
-> Her iki ürün de geliştirme aşamasındadır ve kaynak kodu kapalıdır. Sonuçlar yalnızca bağımsız doğrulamadan sonra paylaşılır.
+> Her iki ürün de geliştirme aşamasındadır, henüz yayınlanmamıştır ve kaynak kodu kapalıdır. Bağımsız bir denetimden geçmemiştir. Performans rakamları yalnızca bağımsız doğrulamadan sonra paylaşılacaktır.
 
 ## 🎮 Diğer projeler
-- **Frontier Rift**: geliştirme aşamasında bir açık dünya oyunu
-- **Ordu Savaşı**: tarayıcıda ve Android'de oynanabilen strateji oyunu
-
-## 🔧 Çalışma alanlarım
-Rust · Python · Yapay zekâ ajanı güvenliği · Kod denetimi · Tedarik zinciri güvenliği
+- **Frontier Rift**: geliştirme aşamasındaki bir açık dünya oyunu
+- **Ordu Savaşı**: tarayıcıda ve Android'de oynanabilen bir strateji oyunu prototipi
 
 ## 📫 İletişim
-Kapalı beta ve iş birliği için: mr.monster.information@gmail.com
+İş birliği ve kapalı beta ilgisi için: mr.monster.information@gmail.com
